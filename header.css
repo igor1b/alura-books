@@ -2,9 +2,9 @@
 .cabeçalho__menu-hamburguer{
     width: 24px;
     height: 24px;
-    beckground-image: url ("../img/Menu.svg");
-    beckgroud-repeat: no-repeat;
-    eckgroud-position: center;
+    background-image: url ("../img/Menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 
     display: inline-block;
 }
@@ -13,7 +13,7 @@
     --branco:#FFFFFF;
 }
 .cabeçalho{
-    beckgroud-color: var(--branco);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     align-items: center;
